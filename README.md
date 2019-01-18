@@ -14,4 +14,5 @@ Some changes were made to the codebase in the article. The purposes of these cha
 The specific pre-trained CNN used is VGG19 (Visual Geometric Group with 19 layers). This model was first proposed in the paper "Very Deep Convolutional Networks for Large-Scale Image Recognition" by Karen Simonyan and Andrew Zisserman, published in April 2015.
 Link: https://arxiv.org/pdf/1409.1556.pdf
 
-![Example of VGG16 Structure)[<img src="https://cdn-images-1.medium.com/max/1000/1*8g0VV5VKbYwawo2nfu5_qQ.png">)
+![Example of VGG16 Structure](<img src="https://cdn-images-1.medium.com/max/1000/1*8g0VV5VKbYwawo2nfu5_qQ.png">)
+Photo Cite: https://medium.com/datadriveninvestor/creating-art-through-a-convolutional-neural-network-ed8a4d9a3f87
