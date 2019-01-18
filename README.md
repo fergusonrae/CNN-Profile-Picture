@@ -18,4 +18,5 @@ Link: https://arxiv.org/pdf/1409.1556.pdf
 
 ![Example of VGG16 Structure](https://cdn-images-1.medium.com/max/1000/1*8g0VV5VKbYwawo2nfu5_qQ.png)
 Caption: Example of VGG16 Structure
+
 Photo Cite: https://medium.com/datadriveninvestor/creating-art-through-a-convolutional-neural-network-ed8a4d9a3f87
