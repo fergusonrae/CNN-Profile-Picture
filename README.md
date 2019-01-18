@@ -8,7 +8,7 @@ Link: https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep
 
 Some changes were made to the codebase in the article. The purposes of these changes are:
 1. Simplification of libraries.
- * The function of libraries such as PIL or pillow were instead done using library matplotlib
+    * The function of libraries such as PIL or pillow were instead done using library matplotlib
 2. Pythonic structuring
 3. A greater number of / more descriptive comments to increase clarity.
 
