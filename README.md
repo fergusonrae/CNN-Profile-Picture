@@ -7,3 +7,8 @@ Link: https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep
 
 Some changes were made to the codebase in the article in order to utilized updated python version 3.6 instead of the 2.7 version used for the article. These changes include:
 1. Utilizing image manipulation library pillow rather than PIL which only supported python 2.x
+
+Other changes made to the code include
+1. Simplification of libraries. The function of libraries such as PIL or pillow were instead done using library matplotlib
+2. Pythonic structuring
+3. A greater number of / more descriptive comments to increase clarity.
