@@ -6,11 +6,13 @@ Codebase used to create a new profile picture that is the combination of a photo
 This codebase is based on the article *Neural Style Transfer: Creating Art with Deep Learning using tf.keras and eager execution* by Raymond Yuan, published on August 3, 2018.
 Link: https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398
 
-Some changes were made to the codebase in the article. The purposes of these changes are:
+Some changes were made to the codebase in the article. These changes include:
 1. Simplification of libraries.
     * The function of libraries such as PIL or pillow were instead done using library matplotlib
-2. Pythonic structuring
+2. Restructuring to reflect a Pythonic and Notebook platform
 3. A greater number of / more descriptive comments to increase clarity.
+4. Condensing or removing uneeded functions
+    * In an aim to simplify the code, some super tuning is removed along with most image manipulation.
 
 ### Model
 The specific pre-trained CNN used is VGG19 (Visual Geometric Group with 19 layers). This model was first proposed in the paper "Very Deep Convolutional Networks for Large-Scale Image Recognition" by Karen Simonyan and Andrew Zisserman, published in April 2015.
